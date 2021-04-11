@@ -47,6 +47,28 @@ img.portrait {
   max-width: 300px;
   max-height: 300px; }
 
+.experience-container {
+  margin-bottom: 3rem; }
+
+.experience-focus {
+  list-style: circle outside none; }
+
+.experience__date {
+  line-height: 0.8rem;
+  position: relative; }
+
+.experience__title {
+  font-size: 1.7rem;
+  font-weight: 600; }
+
+.experience__company {
+  font-size: 0.8rem;
+  font-weight: 500; }
+
+.experience__summary {
+  font-size: 0.8rem;
+  font-style: italic; }
+
 .column {
   flex: 1; }
 

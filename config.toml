@@ -20,3 +20,23 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         icon = "envelope"
         title = "E-mail"
         url = "mailto:soren@sbfp.dk"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "user-tie"
+        title = "About me"
+        url = "#about"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "briefcase"
+        title = "Employment history"
+        url = "#career"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "graduation-cap"
+        title = "Education"
+        url = "#education"
+
+
