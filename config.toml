@@ -9,7 +9,6 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
     name = "Søren"
 
 [params]
-
     [[params.links]]
         icon = "linkedin"
         title = "LinkedIn"
