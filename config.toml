@@ -38,4 +38,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         title = "Education"
         url = "#education"
 
+    [[params.links]]
+        iconset = "fas"
+        icon = "bicycle"
+        title = "Strava"
+        url = "https://www.strava.com/athletes/37026494"
+
+        
+
 
