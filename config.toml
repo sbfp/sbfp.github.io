@@ -40,6 +40,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
     [[params.links]]
         iconset = "fas"
+        icon = "certificate"
+        title = "Training & Certifications"
+        url = "#training"
+
+    [[params.links]]
+        iconset = "fas"
         icon = "bicycle"
         title = "Strava"
         url = "https://www.strava.com/athletes/37026494"
